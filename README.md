@@ -15,6 +15,6 @@ Download the application, inside the folder "backend" (react-auth0 / auth0 / bac
 
 <b>•	Authorship and contributions.</b>
 
-Application reproduced through the tutorial written by <em>Bruno Kebs</em> in the blog of Autht0
+Application reproduced through the tutorial written by <em>Bruno Krebs</em> in the blog of Autht0
 
 link : https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/#Prerequisites
